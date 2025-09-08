@@ -1,6 +1,6 @@
-## Hi there 👋
 
-<!--
+
+
 Hi, I'm Yash Jadhav 👋
 
 💻 Web Developer | MCA Student | Tech Enthusiast
@@ -50,4 +50,3 @@ Learning best practices for scalable web apps
 
 Email: yashj7438@gmail.com
 
--->
