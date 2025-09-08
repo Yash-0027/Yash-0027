@@ -16,16 +16,6 @@
 
 ---
 
-## 📂 Featured Project  
-**[docFlex](https://github.com/Yash-0027/docFlex)**  
-A secure, real-time web application for creating, editing, and saving documents.  
-
-- 🔹 Built with React.js + Redux, Node.js, and Express.js  
-- 🔹 MongoDB for secure data storage and version control  
-
-
----
-
 ## 🌱 What I’m focusing on  
 - Strengthening **DSA and problem-solving**  
 - Exploring **MERN stack projects**  
