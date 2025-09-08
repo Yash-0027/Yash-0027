@@ -1,4 +1,7 @@
 # Hi, I'm Yash Jadhav 👋  
+A passionate web developer with experience in JavaScript, React, Node.js, and MongoDB.
+Skilled at creating responsive and user-friendly applications while tackling technical challenges.
+Currently focused on improving skills, building real-world projects, and growing as a full-stack developer.
 
 ## 🚀 About Me  
 🎓 MCA student (2025–2027) at Nutan Maharashtra Institute of Engineering and Technology  
